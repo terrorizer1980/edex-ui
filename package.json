@@ -101,8 +101,8 @@
   "dependencies": {
     "clean-css": "5.1.2",
     "electron": "^12.0.11",
-    "electron-builder": "^22.11.7",
-    "electron-rebuild": "^2.3.5",
+    "electron-builder": "^24.0.0",
+    "electron-rebuild": "^3.0.0",
     "mime-types": "^2.1.31",
     "node-abi": "2.30.0",
     "node-json-minify": "1.0.0",
